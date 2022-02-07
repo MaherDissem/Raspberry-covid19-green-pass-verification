@@ -1,0 +1,14 @@
+{
+  "name": "validatorserver",
+  "version": "1.0.0",
+  "description": "Italian Greenpass Validator Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Dentella",
+  "dependencies": {
+    "node-cron": "^3.0.0",
+    "verificac19-sdk": "^0.5.1"
+  }
+}
