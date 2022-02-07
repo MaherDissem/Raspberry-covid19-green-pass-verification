@@ -1,4 +1,4 @@
-# Raspberry-covid19-green-pass-verification
+# Raspberry covid19 green pass verification
 
 <p align="center" width="100%">
     <img src="./img/hardware-setup.jpg" alt="drawing" style="float: right;" width="200"/>
